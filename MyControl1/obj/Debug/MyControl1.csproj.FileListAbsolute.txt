@@ -1,0 +1,13 @@
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\UserControl1.g.cs
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1_MarkupCompile.cache
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1_MarkupCompile.lref
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\bin\Debug\MyControl1.dll
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\bin\Debug\MyControl1.pdb
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\UserControl1.baml
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.g.resources
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.Properties.Resources.resources
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.csproj.GenerateResource.cache
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.csproj.CoreCompileInputs.cache
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.dll
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.pdb
+C:\Users\Panichev.s\source\repos\MyControl1\MyControl1\obj\Debug\MyControl1.csprojAssemblyReference.cache

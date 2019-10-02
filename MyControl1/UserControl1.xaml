@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="MyControl1.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyControl1"
+             mc:Ignorable="d" x:Name="MyControl"
+             Width="{Binding Path=Width, RelativeSource={RelativeSource Mode=PreviousData}}" Height="{Binding Path=Height, RelativeSource={RelativeSource Mode=PreviousData}}" 
+             Background="#FFC5C5C5" >        
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+
+        <Canvas x:Name="Numbering" Background="#FFEEEEEE" Width="{Binding WidthOuter}" Height="{Binding HeigthOuter}" >
+            <Canvas x:Name="MainField"  MouseLeftButtonDown="MainField_MouseDown" Background="White"  
+                    Canvas.Left="{Binding LeftIndent}" Canvas.Top="{Binding TopIndent}" Width="{Binding SumWidth}" Height="{Binding SumHeight}"/>
+    </Canvas>        
+    </ScrollViewer>
+
+</UserControl>
